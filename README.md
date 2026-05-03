@@ -43,6 +43,3 @@
 ## Examples
 - See `pipeline/pipeline.py` for the expected data flow and output format.
 - See `pipeline/Dockerfile` for the build and run process.
-
----
-For questions or unclear patterns, review the referenced files or ask for clarification.
