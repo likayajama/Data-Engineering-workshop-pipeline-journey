@@ -16,5 +16,6 @@ RUN uv sync --locked
 
 # Copy application code into the container
 COPY pipeline.py .
+
 # Set entry point to run the pipeline script with uv
 ENTRYPOINT ["python", "pipeline.py"]
