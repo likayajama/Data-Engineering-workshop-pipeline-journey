@@ -21,3 +21,6 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
+# Docker files
+ny_taxi_postgres_data/docker*
+
